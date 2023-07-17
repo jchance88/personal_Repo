@@ -7,3 +7,6 @@
 [submodule "JamesChanceResumeSite"]
 	path = JamesChanceResumeSite
 	url = https://github.com/jchance88/James-Chance-Resume-Site.git
+[submodule "ChatGPTSite"]
+	path = ChatGPTSite
+	url = https://github.com/jchance88/JamesChanceChatGPTPromptSite.git
