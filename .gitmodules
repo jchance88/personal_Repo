@@ -4,3 +4,6 @@
 [submodule "graphQl"]
 	path = graphQl
 	url = https://github.com/jchance88/graphQl.git
+[submodule "JamesChanceResumeSite"]
+	path = JamesChanceResumeSite
+	url = https://github.com/jchance88/James-Chance-Resume-Site.git
