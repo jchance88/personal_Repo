@@ -1,0 +1,6 @@
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/jchance88/weather-app.git
+[submodule "graphQl"]
+	path = graphQl
+	url = https://github.com/jchance88/graphQl.git
